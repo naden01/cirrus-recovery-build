@@ -1,11 +1,11 @@
 env:
-  TWRP_MANIFEST: https://github.com/namakunegro/platform_manifest_twrp_aosp.git
-  TWRP_MANIFEST_BRANCH: twrp-14.1
-  DT_REPO: https://github.com/namakunegro/recovery_xiaomi_gold
-  DT_BRANCH: twrp-14.1_a15
-  DT_PATH: device/xiaomi/gold
-  DEVICE_MAKEFILE: twrp_gold-ap2a
-  DEVICE_NAME: gold
+  TWRP_MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git
+  TWRP_MANIFEST_BRANCH: twrp-12.1
+  DT_REPO: https://github.com/namakunegro/device_xiaomi_tanzanite_recovery
+  DT_BRANCH: twrp_12.1
+  DT_PATH: device/xiaomi/tanzanite
+  DEVICE_MAKEFILE: twrp_tanzanite
+  DEVICE_NAME: tanzanite
   BUILD_TARGET: vendorboot
   TIMEZONE: Asia/Makassar
   RELEASE_REPO: namakunegro/recovery-releases
