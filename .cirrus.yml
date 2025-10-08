@@ -1,17 +1,17 @@
 env:
   TWRP_MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git
   TWRP_MANIFEST_BRANCH: twrp-12.1
-  DT_REPO: https://github.com/namakunegro/device_xiaomi_tanzanite_recovery
-  DT_BRANCH: twrp_12.1
-  DT_PATH: device/xiaomi/tanzanite
-  DEVICE_MAKEFILE: twrp_tanzanite
-  DEVICE_NAME: tanzanite
+  DT_REPO: https://github.com/naden01/tecno_LH8n-TWRP.git
+  DT_BRANCH: test
+  DT_PATH: device/tecno/LH8n
+  DEVICE_MAKEFILE: twrp_LH8n
+  DEVICE_NAME: LH8n
   BUILD_TARGET: vendorboot
   TIMEZONE: Asia/Makassar
-  RELEASE_REPO: namakunegro/recovery-releases
-  GH_TOKEN: ENCRYPTED[1e4cda982bac299284382a287906c19be58e4980aa01a8c41628aa79b24c7de3b6190e8d41aef79d815eed29176e5b6a]
-  TG_BOT_TOKEN: ENCRYPTED[680cd9aa36ca43615a5a4eb18f5c86667ce1f67f72f1b2d9efde857462af53b22e694ea1d1c8de9255bec52009d9cbca]
-  TG_CHAT_ID: ENCRYPTED[da7d452157d0795cfc5fa460f8d7901ff6984f2ca00d63023a09bb1db1a8bbd63b40bc5f5c254bfc502b2832415364a9]
+  RELEASE_REPO: naden01/cirrus-recovery-releases
+  GH_TOKEN: ENCRYPTED[a58ad11dc069acd88d0c69d13cef2a6d0da0397c2af82ffc5b49ae5fcd1f46a71e54bc851390437e15031a77a63d770d]
+  TG_BOT_TOKEN: ENCRYPTED[055baf502ee9c2dd407da5d65bddf5b309010c4d44d764ad87a4a3e423a8ffa21dd646f6d864800acf6b2c39ad2c0b72]
+  TG_CHAT_ID: ENCRYPTED[faf54823de726535f519cd2b6ff3b4256f5c64b9f5ab6e90a97d618628bae085783f91bb24c311b10de4183a6d8be964]
 
 task:
   name: "Build TWRP"
