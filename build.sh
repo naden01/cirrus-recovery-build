@@ -54,7 +54,8 @@ URL=$(
 )
 
 # Send notification to telegram
-send_msg "*$RELEASE_NAME*\n[Download]($URL)"
+send_msg "*$RELEASE_NAME*\n[Download]($URL)
+ambatukam aaaaa please bless this recovery"
 send_file "$HOME/build.log"
 
 exit 0
