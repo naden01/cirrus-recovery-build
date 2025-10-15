@@ -1,11 +1,11 @@
 env:
   FOX_SYNC: https://github.com/linastorvaldz/fox-sync.git
   FOX_BRANCH: 14.1
-  DT_REPO: https://github.com/naden01/android_device_xiaomi_rodin-twrp.git
-  DT_BRANCH: main
-  DT_PATH: device/xiaomi/rodin
-  DEVICE_MAKEFILE: twrp_rodin-ap2a
-  DEVICE_NAME: rodin
+  DT_REPO: https://github.com/naden01/tecno_LH8n-TWRP.git
+  DT_BRANCH: fixa15
+  DT_PATH: device/tecno/LH8n
+  DEVICE_MAKEFILE: twrp_LH8n-ap2a
+  DEVICE_NAME: LH8n
   BUILD_TARGET: vendorboot
   TIMEZONE: Asia/Makassar
   RELEASE_REPO: naden01/cirrus-recovery-releases
