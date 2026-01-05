@@ -1,6 +1,6 @@
 env:
   TWRP_MANIFEST: https://github.com/TWRP-Test/platform_manifest_twrp_aosp.git
-  TWRP_MANIFEST_BRANCH: twrp-16.0
+  TWRP_MANIFEST_BRANCH: twrp-16.0-next
   DT_REPO: https://github.com/naden01/tecno_LH8n-TWRP.git
   DT_BRANCH: fixa15
   DT_PATH: device/tecno/LH8n
