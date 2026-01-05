@@ -4,7 +4,7 @@ env:
   DT_REPO: https://github.com/naden01/tecno_LH8n-TWRP.git
   DT_BRANCH: fixa15
   DT_PATH: device/tecno/LH8n
-  DEVICE_MAKEFILE: twrp_LH8n
+  DEVICE_MAKEFILE: twrp_LH8n-bp1a
   DEVICE_NAME: LH8n
   BUILD_TARGET: vendorboot
   TIMEZONE: Asia/Makassar
