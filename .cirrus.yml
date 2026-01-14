@@ -2,7 +2,7 @@ env:
   FOX_SYNC: https://gitlab.com/OrangeFox/sync.git
   FOX_BRANCH: 14.1
   DT_REPO: https://github.com/naden01/android_device_xiaomi_rodin-twrp.git
-  DT_BRANCH: main
+  DT_BRANCH: preb
   DT_PATH: device/xiaomi/rodin
   DEVICE_MAKEFILE: twrp_rodin-ap2a
   DEVICE_NAME: rodin
